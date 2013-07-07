@@ -1,7 +1,7 @@
 holiday_experiments
 ===================
 
-Experiments with the Holiday (by MooresCloud)
+Experiments with the Holiday (by [MooresCloud](https://github.com/moorescloud))
 
 ## License
 
